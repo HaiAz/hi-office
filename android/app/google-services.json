@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986424550849",
+    "project_id": "hi-office-a1cd2",
+    "storage_bucket": "hi-office-a1cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986424550849:android:eecd6758b727d05cb83b40",
+        "android_client_info": {
+          "package_name": "com.example.hi_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9xm4KapD3TTPMXYYul7fMd5l467Fpfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
